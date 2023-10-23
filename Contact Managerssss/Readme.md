@@ -12,13 +12,12 @@ Contact Manager is a web-based application that allows users to efficiently mana
 
 
 ## Demo
-![Home Page](/Contact%20Manager/images/1.png)
-![Adding contact details](/Contact%20Manager/images/2.png)
-![Saved contact display](/Contact%20Manager/images/3.png)
-![clicking edit](/Contact%20Manager/images/4.png)
-![Editing the contact](/Contact%20Manager/images/5.png)
-![Display of edited contact](/Contact%20Manager/images/6.png)
 
+<img src="https://github.com/EshaalakshmiDS/Contact-Manager/blob/main/1.png" alt="Home Page"/>
+<img src="https://github.com/EshaalakshmiDS/Contact-Manager/blob/main/2.png" alt="Adding contact details"/>
+<img src="https://github.com/EshaalakshmiDS/Contact-Manager/blob/main/3.png" alt="Saved contact display"/>
+<img src="https://github.com/EshaalakshmiDS/Contact-Manager/blob/main/4.png" alt="clicking edit"/>
+<img src="https://github.com/EshaalakshmiDS/Contact-Manager/blob/main/6.png" alt="Display of edited contact"/>
 
 ## Features
 
